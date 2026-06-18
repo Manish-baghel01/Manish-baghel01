@@ -9,7 +9,32 @@
 
 ### Hi there, I'm [Manish baghel](https://www.linkedin.com/in/manish-baghel-06b22b191/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+# AI Fact-Checking Web Application
+
+An intelligent fact-verification platform that automates the process of validating claims contained within PDF documents. The application extracts factual statements, statistics, dates, and numerical claims from uploaded files, cross-references them against real-time web sources, and generates a structured verification report.
+
+Built using Streamlit, PyPDF2, and web search integration, the system helps identify outdated, inaccurate, or unsupported information by classifying claims into verification categories and providing supporting evidence where available. Users can review results through an interactive dashboard and export detailed reports for further analysis.
+
+### Key Features
+
+* Automated PDF text extraction
+* Factual claim identification and analysis
+* Real-time web-based verification
+* Evidence-backed claim validation
+* Interactive reporting dashboard
+* Downloadable CSV verification reports
+
+### Technology Stack
+
+* Python
+* Streamlit
+* PyPDF2
+* DuckDuckGo Search
+* Pandas
+* Regular Expressions (Regex)
+
+This project demonstrates the practical application of Natural Language Processing (NLP), information retrieval, and automated fact verification to improve content accuracy and reliability.
+
 
 
 - 💻 {( Currently working as a back-end developer at [YouthIndiaFoundation](https://www.youthindiafoundation.com/)-NewDelhi, it is a type of [NGO](https://en.wikipedia.org/wiki/Non-governmental_organization) and our team is currently working on a project named as YIE-       School. )}
